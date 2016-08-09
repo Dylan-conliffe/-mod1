@@ -1,0 +1,46 @@
+/* ADD YOUR STYLES HERE */
+/*  data table */
+tr {
+   border-bottom: 1px solid #ccc 
+
+}
+td { padding: 10px 20px 20px 20px;
+    
+}
+/* stats */
+.end-row { border-bottom: none !important;
+}
+.number{ font-size: 45px;
+    
+}
+.small{ font-size: 10px;
+    
+}
+    
+.stat-topbar{ border-top: 1px solid #ccc 
+    
+}
+
+/* bar chart */
+.bar-chart tr {border-bottom: none !important;}
+
+.bar-chart td{ 
+    width:100%;
+   padding: 0px 0px 10px 10px;
+   
+}
+.bar-chart div{ background: blue;
+    color: white;
+    padding: 0px 0px 5px 0px;
+}
+/* light box */
+.light-boxx div{
+    width:600px; 
+    margin:0 auto;
+    background:#fff
+    
+}
+.close-button a {
+    padding: 40px;
+    
+}
